@@ -37,8 +37,7 @@ void main() {
 
 3. 컴시설 *12조*의 **깃허브 주소**
 
-![github](cheolguso.com/wp-content/uploads/2015/08/git_thumb.jpg).
-
+![daum](http://icon.daumcdn.net/w/icon/1312/19/152729032.png).
 
 * 인라인 링크 [12조_github](http://github.com/wje21522/WYW_12).
 * 참조 링크 [12조_github] [1].
