@@ -10,8 +10,8 @@
 > 2. 컴시설 조원들 *태어난 곳*
 > 3. 컴시설 *12조*의 **깃허브 주소**
 
-- 사과
-* 바나나
+- **사과**
+* *바나나*
 
 
 1. 컴시설 조원들 이름과 학번
@@ -24,14 +24,21 @@
 
 2. 컴시설 조원들 태어난 곳
 ```
+#include <stdio.h>
+void main() {
 printf("희혜는 인천");
 printf("재은이는 서울");
 printf("주연이는 청주");
+}
 ```
 
-3. <i class="icon-folder-open"></i> 컴시설 *12조*의 **깃허브 주소**
- 
-	![대체텍스트](http://github.com/wje21522/WYW_12)
+3. 컴시설 *12조*의 **깃허브 주소**
+
+* 인라인 링크 [github](http://github.com/wje21522/WYW_12).
+* ckawh fldzm [github] [1].
+
+[1]: http://github.com/wje21522/WYW_12
+
 
 
 [참고]
