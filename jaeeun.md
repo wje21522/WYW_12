@@ -8,21 +8,26 @@ Headers
 
 >hello i am **jaeeun woo**
 >i am **22**years old
->i am done with ** emphasis**
+>i am done with **emphasis**
 
-1.Headers
---*various headers
-2.list
---2-1 list in detail
-3.emphasis
+>1.Headers
+
+> * various headers
+
+>2.list
+
+> - 2-1 list in detail
+
+>3.emphasis
 
 
--Headers
-*list
-*emphasis
+>- Headers
+>* list
+
+>* emphasis
 
 **bold**
-*italis*
+*italics*
 
 [WYW_12](https://github.com/wje21522/WYW_12)
 
