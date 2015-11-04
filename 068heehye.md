@@ -10,9 +10,12 @@
 > 2. 컴시설 조원들 *태어난 곳*
 > 3. 컴시설 *12조*의 **깃허브 주소**
 
+---
+
 - **사과**
 * *바나나*
 
+***
 
 1. 컴시설 조원들 이름과 학번
 
@@ -26,21 +29,25 @@
 ```
 #include <stdio.h>
 void main() {
-printf("희혜는 인천");
-printf("재은이는 서울");
-printf("주연이는 청주");
+	printf("희혜는 인천");
+	printf("재은이는 서울");
+	printf("주연이는 청주");
 }
 ```
 
 3. 컴시설 *12조*의 **깃허브 주소**
 
-* 인라인 링크 [github](http://github.com/wje21522/WYW_12).
-* ckawh fldzm [github] [1].
+![github](http://oq.github.com/mark/gitgub-mark@1200*630.png).
+
+
+* 인라인 링크 [12조_github](http://github.com/wje21522/WYW_12).
+* 참조 링크 [12조_github] [1].
 
 [1]: http://github.com/wje21522/WYW_12
 
 
 
 [참고]
-myevan articles - 마크 다운 문법 가이드 
+> myevan articles
+> > 마크 다운 문법 가이드 
 
