@@ -12,7 +12,6 @@
 
 - 사과
 * 바나나
-- 닭가슴살
 
 
 1. 컴시설 조원들 이름과 학번
@@ -24,16 +23,17 @@
 	|원주연 | 2013136072|
 
 2. 컴시설 조원들 태어난 곳
-[code language = "c"]
+```
 printf("희혜는 인천");
 printf("재은이는 서울");
 printf("주연이는 청주");
-[/code]
+```
 
 3. <i class="icon-folder-open"></i> 컴시설 *12조*의 **깃허브 주소**
  
 	![대체텍스트](http://github.com/wje21522/WYW_12)
 
 
+[참고]
 myevan articles - 마크 다운 문법 가이드 
 
