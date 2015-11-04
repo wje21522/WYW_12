@@ -37,7 +37,7 @@ void main() {
 
 3. 컴시설 *12조*의 **깃허브 주소**
 
-![github](http://og.github.com/mark/gitgub-mark@1200*630.png).
+![github](https://og.github.com/mark/github-mark@1200*630.png).
 
 
 * 인라인 링크 [12조_github](http://github.com/wje21522/WYW_12).
