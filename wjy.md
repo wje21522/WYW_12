@@ -24,14 +24,16 @@ Term 3
 * [Google] [1].
 [1] : http://www.google.co.kr/
 * [Yahoo].
-[Yahoo!] : http://www.yahoo.com/
+![Yahoo] : http://www.yahoo.com/
 
 ![picture] (http://w3.org/Icons/valid-xhtml10).
 
-""" public static void main(){
-printf("hello");
-}"""
+"""java
+public static void main(){
+	printf("hello");
+}
+"""
 
---A--|--B--
-stand|sit
-candy|fruit
+|--A--|--B--|
+|stand|sit|
+|candy|fruit|
