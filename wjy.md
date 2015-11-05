@@ -28,12 +28,12 @@ Term 3
 
 ![picture] (http://w3.org/Icons/valid-xhtml10).
 
-"""java
-public static void main(){
-	printf("hello");
-}
-"""
+'''python
+s = "Python syntax highlighting"
+print s
+'''
 
-|--A--|--B--|
-|stand|sit|
-|candy|fruit|
+A| B
+----|----
+stand|sit
+candy|fruit
