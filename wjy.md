@@ -28,10 +28,10 @@ Term 3
 
 ![picture] (http://w3.org/Icons/valid-xhtml10).
 
-'''python
+```python
 s = "Python syntax highlighting"
 print s
-'''
+```
 
 A| B
 ----|----
