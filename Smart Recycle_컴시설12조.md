@@ -1,6 +1,6 @@
 
-#**Smart Recycle**  
-
+　　　　　　　　　　　　　**Smart Recycle**  
+--------------
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 2013136071   |우재은
 2013136072  | 원주연
 
-![한기대로고](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12122630_1088656004477733_1675076841412409785_n.jpg?oh=3b370f024d84427e2f88d7ec68178627&oe=56ED94A5&__gda__=1461462565_27440ce6126b6040210b10f5538704d1)
+　　　　　　　　　　　　　   　　　　　![한기대로고](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/12122630_1088656004477733_1675076841412409785_n.jpg?oh=3b370f024d84427e2f88d7ec68178627&oe=56ED94A5&__gda__=1461462565_27440ce6126b6040210b10f5538704d1)
 
 #-목차-
 
